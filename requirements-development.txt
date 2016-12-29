@@ -1,0 +1,9 @@
+-r requirements.txt
+
+# test running
+nose
+yanc
+ipdb
+ipdbplugin
+coverage
+pylint

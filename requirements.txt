@@ -1,0 +1,3 @@
+-e .
+ofxtools>=0.3.13
+sqlalchemy>=1.0.0
